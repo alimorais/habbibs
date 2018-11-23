@@ -1,0 +1,20 @@
+-- Aula TP - Enoque -- Utilizacao do GITHUB + repositorios + projeto --
+
+	.. local repository - branch ..
+	
+	Git init se inica o repositorio e apos isso alocamos no 
+repositorio remoto. podemos enviar esse repositorio local para város 
+repositorios rm - REMOTE.
+	
+	Método que eu utilizo: Crio um repositorio no GITHUB and clono o 
+address no GIT BASH "git clone XXXXXXXX"
+
+	.. remote repository ..
+
+	Repositorio remoto é o repositorio alocado no GITHUB.
+
+
+Utilização JAVA:
+	
+	toda url/pacote(package)/projeto em java deverá estar ao inverso do 
+convencional.

@@ -1,0 +1,6 @@
+LEMBRE - SE SEMPRE DO GIT STATUS PARA SABER DO DESENVOLVIMENTO DO PROJETO.
+
+--Java - NETBEANS atalhos:
+CAIXA ALTA + F -- Executar o código
+
+git config --list este comando lista os as informações de configuração em uma lista 
